@@ -1,0 +1,37 @@
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {'phone': 0, 'is_happy': 'no'}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {'phone': '123-123', 'is_happy': 'no'}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {'phone': '123-123', 'is_happy': 'no'}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {'phone': '123-123', 'is_happy': 'no'}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('John', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('cathey', 39), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {'phone': '123-123', 'is_happy': 'no'}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+INFO:root:Ran with args: ('Ankit', 25), and kwargs: {}
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: eed2feb0-9c0c-407a-86a9-9973f541e54c
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 7f538902-b539-4585-babd-a9de9fd5ff92
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 93e7f056-96ca-462e-97af-45d6bc770ecc
